@@ -4,9 +4,10 @@
 
 🗓️ 2025/05/ - 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/67c7c2e2-df8a-4032-a946-126ef5aabe34" width="300"/>
-  <img src="https://github.com/user-attachments/assets/a3a4c679-7df2-47e1-bd39-926eaf7eff2b" width="300"/>
+##### 3D 스캔 모델 최종
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/67c7c2e2-df8a-4032-a946-126ef5aabe34" width="350"/>
+  <img src="https://github.com/user-attachments/assets/a3a4c679-7df2-47e1-bd39-926eaf7eff2b" width="350"/>
 </p>
 
 
