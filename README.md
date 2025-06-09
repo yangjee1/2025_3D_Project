@@ -4,8 +4,11 @@
 
 🗓️ 2025/05/ - 
 
-![Statues](https://github.com/user-attachments/assets/67c7c2e2-df8a-4032-a946-126ef5aabe34)
-![Building](https://github.com/user-attachments/assets/a3a4c679-7df2-47e1-bd39-926eaf7eff2b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67c7c2e2-df8a-4032-a946-126ef5aabe34" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a3a4c679-7df2-47e1-bd39-926eaf7eff2b" width="300"/>
+</p>
+
 
  &nbsp;
  &nbsp;
