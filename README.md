@@ -24,7 +24,7 @@
   <img src="https://github.com/user-attachments/assets/67c7c2e2-df8a-4032-a946-126ef5aabe34" width="400"/>
   <img src="https://github.com/user-attachments/assets/a3a4c679-7df2-47e1-bd39-926eaf7eff2b" width="400"/>
 </p>
-###### 🔗 Obj 파일 링크
+###### 🔗 Obj 파일 링크 
 https://o365nuch-my.sharepoint.com/:f:/r/personal/20252060_office_knuh_ac_kr/Documents/3D%20%EC%8A%A4%EC%BA%90%EB%8B%9D%20%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C/obj%20%EB%AA%A8%EC%9D%8C?csf=1&web=1&e=xPItRR
 
  &nbsp;
