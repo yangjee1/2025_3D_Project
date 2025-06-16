@@ -29,7 +29,7 @@
  &nbsp;
  
 ##### 메타휴먼
-
+![Image](https://github.com/user-attachments/assets/a39a8ecb-a7ea-4c3e-a1bb-02505a2a81a1)
 
 
  &nbsp;
